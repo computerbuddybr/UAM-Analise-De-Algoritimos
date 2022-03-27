@@ -1,4 +1,4 @@
-#Atividade 1 - Análise de Algoritimos da UAM - Nota Recebida: 10
+# Atividade 1 - Análise de Algoritimos da UAM - Nota Recebida: 10
 ## Enunciado:
 Caro(a) aluno(a),
 
